@@ -5,8 +5,6 @@
 
 ### PS: As the backend deployed using Render, there is more than an expected delay, apologies for the inconvenience!
 
-## Demonstration Video: https://drive.google.com/file/d/1sAvTTrGPlbfzjCyN4ZQAwE8ncMNFI1z3/view?usp=sharing
-
 # Use these credentials to check out features:
 
 ## Login as a Patient -
